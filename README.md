@@ -3,8 +3,8 @@
 ★ I work hard to improve my skills and build reliable, scalable solutions for real-world problems.<br> <br>
 ★ My Tech Stack - <br>
 * **Master Language :** Java
-* **I Know :** Spring Boot , MYSQL , MERN Stack , Python , React Native , as well as "Cloud Deployment Solutions" like Versel , Railway , FireBase <br> <br>
-
+* **I Know :** Spring Boot, Microservices , MYSQL , MERN Stack , Python, JavaScript, Type React Native , as well as "Cloud Deployment Solutions" like Versel , Railway , FireBase <br> <br>
+* **Basic understanding :** Docker, Kubernetes, Azure <br> <br>
 ★ Connect with me
  * **Email :** `asanindusara348@gmail.com`
- * **LinkedIn :**
+ * **LinkedIn :** `linkedin.com/in/asani2003` 
