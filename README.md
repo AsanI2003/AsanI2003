@@ -1,1 +1,2 @@
 # <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Asan." alt="Typing SVG" /></p>
+Currently a Software Engineering Intern at Synapse Solutions, a Volunteer Backend Dev at Sawiya Foundation, and finishing my GDSE at IJSE. I am always try to build practical solutions, not just code.
